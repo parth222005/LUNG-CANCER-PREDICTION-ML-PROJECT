@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#f0d5b6"
+backgroundColor = "#ebf3f3"
+secondaryBackgroundColor = "#a7b4d9"
+textColor = "#3764d3"
+
+[deprecation]
+showPyplotGlobalUse = false
